@@ -1,5 +1,6 @@
 # 💫 About Me:
 Software Engineer based in San Francisco. I studied Data Science at UC Berkeley. I currently work at @Nooks where I'm building tools to help Sales boost their pipeline and hit revenue goals. Previously worked on building software that was scalable, reliable, and performant @Lob. Worked on building better hiring tech @Searchlight.ai
+🇺🇦
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidxuu/) 
